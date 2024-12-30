@@ -1,0 +1,16 @@
+{
+    "sports": {
+        "title": "Sporting Activities",
+        "description": "Some of the sporting Activities that take place at the ICCMW here:",
+        "imageUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/sports/sports.png",
+        "sportsList": [
+            "Basket Ball",
+            "Table Tennis",
+            "Volleyball",
+            "Indoor Cricket",
+            "Badminton",
+            "Soccer",
+            "Carrom board"
+        ]
+    }
+}

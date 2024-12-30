@@ -1,0 +1,203 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Dua Request",
+      "description": "",
+      "contact": true,
+      "data": [
+        {
+          "heading": "",
+          "desciption:": [""],
+          "list": [],
+          "image": "",
+          "table": {
+            "title": "Contact Information",
+            "color": "yellow",
+            "data": {}
+          },
+          "images": [],
+          "links": [],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "",
+          "desciption:": [""],
+          "list": [],
+          "image": "",
+          "table": {
+            "title": "Contact Information",
+            "color": "yellow",
+            "data": {}
+          },
+          "images": [],
+          "links": [],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": [
+              {
+                "title": "First Name",
+                "dataType": "String",
+                "required": true
+              },
+              {
+                "title": "Last Name",
+                "dataType": "String",
+                "required": true
+              },
+              {
+                "title": "E-mail",
+                "dataType": "String",
+                "required": true
+              },
+              {
+                "title": "Phone",
+                "dataType": "Number",
+                "required": false
+              },
+              {
+                "title": "Dua Request",
+                "dataType": "String",
+                "required": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Notary",
+      "description": "",
+      "contact": true,
+      "data": [
+        {
+          "heading": "",
+          "desciption:": [
+            "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents."
+          ],
+          "list": ["Call Br kamal 914-606-0217"],
+          "image": "",
+          "table": {},
+          "images": [],
+          "links": [],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "ICCMW WeekDay Maktab Program",
+      "description": "",
+      "contact": false,
+      "data": [
+        {
+          "heading": "",
+          "desciption:": ["Boys & Girls Aged 5 & 15"],
+          "list": [],
+          "image": "",
+          "table": {},
+          "images": [],
+          "links": [],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "",
+          "desciption:": ["ICCMW ", "2 Grandview Blvd", "Yonkers, NY 10710"],
+          "list": [],
+          "image": "",
+          "table": {},
+          "images": [],
+          "links": [
+            {
+              "title": "This form shall be used to register - Maktab Class of 2025-26 Registration Form",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScL5qvO-fLswADdrM0ACmu0c_ghIKO648xhpdHCDjM_NVSdGA/viewform"
+            }
+          ],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Saturday Quran Tafseer in Urdu",
+      "description": "Topic: Quran Tafseer in Urdu",
+      "contact": false,
+      "data": [
+        {
+          "heading": "",
+          "desciption:": [""],
+          "list": [
+            "Time:",
+            "10:00 pm India Time",
+            "12:30 PM Eastern Time (US and Canada)",
+            "Every week on Saturday"
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "links": [],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "",
+          "desciption:": [""],
+          "list": [],
+          "image": "",
+          "table": {},
+          "images": [],
+          "links": [
+            {
+              "title": "Weekly:",
+              "link": "https://us02web.zoom.us/meeting/tZEvce2hrTMiGNXir5oybwiA14P1qxMXzC_M/ics?icsToken=98tyKuGtrD0uE9eduBuGRpwMAI_oLPPztlxHjY1llQ2wDDlRdQrXZ7ZyY6NnPeDK&meetingMasterEventId=aZyzQxhgR0anw4C9GV2f4A"
+            },
+            {
+              "title": "Join Zoom Meeting",
+              "link": "https://us02web.zoom.us/j/85264938821?pwd=LfrD17bWrfzy7ThHmjiM4sbsbooCB3.1"
+            }
+          ],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "Zoom Meeting Details",
+          "desciption:": [""],
+          "list": ["Meeting ID: 852 6493 8821", "Passcode: 05102024"],
+          "image": "",
+          "table": {},
+          "images": [],
+          "links": [],
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        }
+      ]
+    }
+  ]
+}

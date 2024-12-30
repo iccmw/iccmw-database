@@ -1,0 +1,106 @@
+{
+    "subcategories": {
+        "id": 1,
+        "category": "Food and Beverage",
+        "data": [
+            {
+                "id": 101000001,
+                "title": "Chinise fast food restaurant",
+                "subcategoriesId": 101,
+                "data": [
+                    {
+                        "heading": "heading 1",
+                        "desciption:": [
+                            ""
+                        ],
+                        "list": [],
+                        "image": "",
+                        "table": {
+                            "title": "Contact Information",
+                            "color": "yellow",
+                            "data": {}
+                        },
+                        "images": [],
+                        "link": "",
+                        "links": "",
+                        "form": {
+                            "title": "",
+                            "submit": "",
+                            "feilds": []
+                        }
+                    },
+                    {
+                        "heading": "heading 2",
+                        "desciption:": [
+                            ""
+                        ],
+                        "list": [],
+                        "image": "",
+                        "table": {
+                            "title": "Contact Information",
+                            "color": "yellow",
+                            "data": {}
+                        },
+                        "images": [],
+                        "link": "",
+                        "links": "",
+                        "form": {
+                            "title": "",
+                            "submit": "",
+                            "feilds": []
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 101000002,
+                "title": "Pizza hut",
+                "subcategoriesId": 101,
+                "data": [
+                    {
+                        "heading": "heading 1",
+                        "desciption:": [
+                            ""
+                        ],
+                        "list": [],
+                        "image": "",
+                        "table": {
+                            "title": "Contact Information",
+                            "color": "yellow",
+                            "data": {}
+                        },
+                        "images": [],
+                        "link": "",
+                        "links": "",
+                        "form": {
+                            "title": "",
+                            "submit": "",
+                            "feilds": []
+                        }
+                    },
+                    {
+                        "heading": "heading 2",
+                        "desciption:": [
+                            ""
+                        ],
+                        "list": [],
+                        "image": "",
+                        "table": {
+                            "title": "Contact Information",
+                            "color": "yellow",
+                            "data": {}
+                        },
+                        "images": [],
+                        "link": "",
+                        "links": "",
+                        "form": {
+                            "title": "",
+                            "submit": "",
+                            "feilds": []
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

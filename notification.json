@@ -1,0 +1,64 @@
+{
+  "notification": [
+    {
+      "id": 101,
+      "heading": "ICCMW General Notification",
+      "body": "Assalamualaikum ICCMW Members. This is a general notification from ICCMW.",
+      "topic": "general",
+      "duration": {
+        "days": 7,
+        "hours": 24,
+        "minutes": 0
+      },
+      "created_at": {
+        "date": "2024-12-28",
+        "time": "09:16 PM"
+      }
+    },
+    {
+      "id": 102,
+      "heading": "ICCMW Notification",
+      "body": "Assalamualaikum ICCMW Members. Eid Mubarak everyone.",
+      "topic": "iccmw",
+      "duration": {
+        "days": 7,
+        "hours": 24,
+        "minutes": 0
+      },
+      "created_at": {
+        "date": "2024-12-28",
+        "time": "09:16 PM"
+      }
+    },
+    {
+      "id": 103,
+      "heading": "ICCMW Notification",
+      "body": "Testing - notification",
+      "topic": "iccmw",
+      "duration": {
+        "days": 7,
+        "hours": 24,
+        "minutes": 0
+      },
+      "created_at": {
+        "date": "2024-12-28",
+        "time": "09:16 PM"
+      }
+    },
+    {
+      "id": 104,
+      "heading": "ICCMW Notification",
+      "body": "Eid Mubarak",
+      "topic": "iccmw",
+      "duration": {
+        "days": 7,
+        "hours": 24,
+        "minutes": 0
+      },
+      "created_at": {
+        "date": "2024-12-28",
+        "time": "09:16 PM"
+      }
+    }
+  ]
+}

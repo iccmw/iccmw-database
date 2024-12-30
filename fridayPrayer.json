@@ -1,0 +1,108 @@
+{
+  "fridayPrayer": [
+    {
+      "title": "Church Hall",
+      "khudba": "12:30 PM",
+      "Salah": "12:55 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "December",
+        "day": 6,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Dr. Muhammad Ockeh "
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khudba": "01:30 PM",
+      "Salah": "01:55 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "December",
+        "day": 6,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Sh. Omar Ockeh"
+    },
+    {
+      "title": "Church Hall",
+      "khudba": "12:30 PM",
+      "Salah": "12:55 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "December",
+        "day": 13,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Imam Masroor"
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khudba": "01:30 PM",
+      "Salah": "01:55 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "December",
+        "day": 13,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Br. Musa Ockeh"
+    },
+    {
+      "title": "Church Hall",
+      "khudba": "12:30 PM",
+      "Salah": "12:55 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "December",
+        "day": 20,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Sh. Omar Ahmed"
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khudba": "01:30 PM",
+      "Salah": "01:55 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "December",
+        "day": 20,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Dr. Mohmad Ockeh"
+    },
+    {
+      "title": "Church Hall",
+      "khudba": "12:30 PM",
+      "Salah": "12:55 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "December",
+        "day": 27,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Dr. Imam Shafique"
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khudba": "01:30 PM",
+      "Salah": "01:55 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "December",
+        "day": 27,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Br. Musa Ockeh"
+    }
+  ]
+}

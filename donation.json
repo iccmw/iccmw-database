@@ -1,0 +1,29 @@
+{
+  "donation": [
+    {
+      "id": 1,
+      "title": "Donation ICCMW",
+      "link": "https://iccmw.org/donate/"
+    },
+    {
+      "id": 2,
+      "title": "Zakat",
+      "link": "https://iccmw.org/donate/"
+    },
+    {
+      "id": 3,
+      "title": "Sadaqah",
+      "link": "https://iccmw.org/donate/"
+    },
+    {
+      "id": 4,
+      "title": "Fitra ($15/Family member)",
+      "link": "https://iccmw.org/donate/"
+    },
+    {
+      "id": 5, 
+      "title": "Donation for PALESTINE",
+      "link": "https://iccmw.org/donate/"
+    }
+  ]
+}
