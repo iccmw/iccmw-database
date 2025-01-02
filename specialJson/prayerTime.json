@@ -4120,7 +4120,7 @@
           },
           "Iqamah": {
             "time": "01:30",
-            "clock": "PM",
+            "clock": "AM",
             "notification": true
           }
         },
@@ -4187,7 +4187,7 @@
           },
           "Iqamah": {
             "time": "01:30",
-            "clock": "PM",
+            "clock": "AM",
             "notification": true
           }
         },
