@@ -41,11 +41,15 @@
       "prayerType": "First Prayer",
       "date": {
         "month": "January",
-        "day": 19,
+        "day": 10,
         "year": 2025
       },
       "address": "100 Underhill Street Yonkers NY 10710",
-      "khateeb": "Imam Masroor"
+      "khateeb": {
+        "id": 5,
+        "name": "Hafiz Dr. Nabil Omran",
+        "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+      }
     },
     {
       "title": "ICCMW Masjid",
@@ -54,11 +58,15 @@
       "prayerType": "Second Prayer",
       "date": {
         "month": "January",
-        "day": 19,
+        "day": 10,
         "year": 2025
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710",
-      "khateeb": "Br. Musa Ockeh"
+      "khateeb": {
+        "id": 6,
+        "name": "Hafiz Dr. Zaid Nakadar",
+        "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+      }
     },
     {
       "title": "Church Hall",
@@ -71,7 +79,11 @@
         "year": 2025
       },
       "address": "100 Underhill Street Yonkers NY 10710",
-      "khateeb": "Sh. Omar Ahmed"
+      "khateeb": {
+        "id": 3,
+        "name": "Sh. Omar Ahmed",
+        "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/shOmarAhmed.jpg"
+      }
     },
     {
       "title": "ICCMW Masjid",
@@ -84,7 +96,11 @@
         "year": 2025
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710",
-      "khateeb": "Dr. Mohmad Ockeh"
+      "khateeb": {
+        "id": 7,
+        "name": "Sh. Musa Ockeh",
+        "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+      }
     },
     {
       "title": "Church Hall",
@@ -97,7 +113,11 @@
         "year": 2025
       },
       "address": "100 Underhill Street Yonkers NY 10710",
-      "khateeb": "Dr. Imam Shafique"
+      "khateeb": {
+        "id": 4,
+        "name": "Dr. Imam Shafique",
+        "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/drImamShafique.jpg"
+      }
     },
     {
       "title": "ICCMW Masjid",
@@ -110,7 +130,11 @@
         "year": 2025
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710",
-      "khateeb": "Br. Musa Ockeh"
+      "khateeb": {
+        "id": 1,
+        "name": "Dr. Mohammad Ockeh",
+        "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/drMohammadOckeh.jpg"
+      }
     },
     {
       "title": "Church Hall",
@@ -123,7 +147,7 @@
         "year": 2025
       },
       "address": "100 Underhill Street Yonkers NY 10710",
-      "khateeb": "Dr. Imam Shafique"
+      "khateeb": {}
     },
     {
       "title": "ICCMW Masjid",
@@ -136,7 +160,11 @@
         "year": 2025
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710",
-      "khateeb": "Br. Musa Ockeh"
+      "khateeb": {
+        "id": 8,
+        "name": "Br. Arshad Shareef",
+        "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+      }
     }
   ]
 }
