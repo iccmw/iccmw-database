@@ -19,6 +19,26 @@
       "id": 4,
       "name": "Dr. Imam Shafique",
       "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/drImamShafique.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hafiz Dr. Nabil Omran",
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hafiz Dr. Zaid Nakadar",
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sh. Musa Ockeh",
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Br. Arshad Shareef",
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
     }
   ]
 }
