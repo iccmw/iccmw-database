@@ -2,9 +2,17 @@
   "eventCountDown": [
     {
       "title": "Ramadan",
-      "date": { 
+      "date": {
         "day": 1,
         "month": "Febuary",
+        "year": 2025
+      }
+    },
+    {
+      "title": "Eid ul Fitar",
+      "date": {
+        "day": 1,
+        "month": "March",
         "year": 2025
       }
     }

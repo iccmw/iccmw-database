@@ -1,3 +1,15 @@
 {
-  "ramadan": true
+  "ramadan": true,
+  "timing": {
+    "open": {
+      "time": "05:30",
+      "clock": "AM"
+    },
+    "close": {
+      "time": "05:30",
+      "clock": "AM"
+    }
+  },
+  "calendar": "",
+  "ramadanCalendar": ""
 }
