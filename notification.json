@@ -6,58 +6,49 @@
       "body": "Assalamualaikum ICCMW Members. This is a general notification from ICCMW.",
       "topic": "general",
       "duration": {
-        "days": 7,
-        "hours": 24,
+        "days": 30,
+        "hours": 0,
         "minutes": 0
       },
       "created_at": {
-        "date": "2024-12-28",
-        "time": "09:16 PM"
+        "year": 2024,
+        "month": 1,
+        "day": 1,
+        "time": "09:00 AM"
       }
     },
     {
       "id": 102,
-      "heading": "ICCMW Notification",
-      "body": "Assalamualaikum ICCMW Members. Eid Mubarak everyone.",
-      "topic": "iccmw",
+      "heading": "ICCMW Event Notification",
+      "body": "Join us for an upcoming event this weekend!",
+      "topic": "event",
       "duration": {
-        "days": 7,
-        "hours": 24,
+        "days": 3,
+        "hours": 0,
         "minutes": 0
       },
       "created_at": {
-        "date": "2024-12-28",
-        "time": "09:16 PM"
+        "year": 2024,
+        "month": 1,
+        "day": 3,
+        "time": "10:00 AM"
       }
     },
     {
       "id": 103,
-      "heading": "ICCMW Notification",
-      "body": "Testing - notification",
-      "topic": "iccmw",
+      "heading": "ICCMW Important Update",
+      "body": "Please check your membership status.",
+      "topic": "update",
       "duration": {
         "days": 7,
-        "hours": 24,
+        "hours": 0,
         "minutes": 0
       },
       "created_at": {
-        "date": "2024-12-28",
-        "time": "09:16 PM"
-      }
-    },
-    {
-      "id": 104,
-      "heading": "ICCMW Notification",
-      "body": "Eid Mubarak",
-      "topic": "iccmw",
-      "duration": {
-        "days": 7,
-        "hours": 24,
-        "minutes": 0
-      },
-      "created_at": {
-        "date": "2024-12-28",
-        "time": "09:16 PM"
+        "year": 2024,
+        "month": 1,
+        "day": 2,
+        "time": "02:00 PM"
       }
     }
   ]
