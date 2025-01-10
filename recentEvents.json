@@ -1,6 +1,7 @@
 {
   "RecentEvents": [
     {
+      "id": 1,
       "heading": "ICCMW Monthly Dars",
       "text": [
         "December 14, 2024 (Saturday)",
@@ -16,16 +17,19 @@
       ]
     },
     {
+      "id": 2,
       "heading": "ICCMW Quran Maktab for Kids",
       "text": [
         "Mon - Thur (6 pm to 7 pm) Quran Maktab for kids ages 5 to 15 by Sh. Favzul Kabeer."
       ]
     },
     {
+      "id": 3,
       "heading": "Weekly Youth Sister's Halaka in English",
       "text": ["Led by Sr. Maysa Ockeh every Friday at 5:30 PM,"]
     },
     {
+      "id": 4,
       "heading": "Jummah Prayers",
       "text": [
         "First Khudba: 12:30 PM. Salah: 12:55 PM",
