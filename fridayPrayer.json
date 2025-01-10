@@ -1,6 +1,7 @@
 {
   "fridayPrayer": [
     {
+      "id": 1,
       "title": "Church Hall",
       "khudba": "12:30 PM",
       "Salah": "12:55 PM",
@@ -18,6 +19,7 @@
       }
     },
     {
+      "id": 2,
       "title": "ICCMW Masjid",
       "khudba": "01:30 PM",
       "Salah": "01:55 PM",
@@ -35,6 +37,7 @@
       }
     },
     {
+      "id": 3,
       "title": "Church Hall",
       "khudba": "12:30 PM",
       "Salah": "12:55 PM",
@@ -52,6 +55,7 @@
       }
     },
     {
+      "id": 4,
       "title": "ICCMW Masjid",
       "khudba": "01:30 PM",
       "Salah": "01:55 PM",
@@ -69,6 +73,7 @@
       }
     },
     {
+      "id": 5,
       "title": "Church Hall",
       "khudba": "12:30 PM",
       "Salah": "12:55 PM",
@@ -86,6 +91,7 @@
       }
     },
     {
+      "id": 6,
       "title": "ICCMW Masjid",
       "khudba": "01:30 PM",
       "Salah": "01:55 PM",
@@ -103,6 +109,7 @@
       }
     },
     {
+      "id": 7,
       "title": "Church Hall",
       "khudba": "12:30 PM",
       "Salah": "12:55 PM",
@@ -120,6 +127,7 @@
       }
     },
     {
+      "id": 8,
       "title": "ICCMW Masjid",
       "khudba": "01:30 PM",
       "Salah": "01:55 PM",
@@ -137,6 +145,7 @@
       }
     },
     {
+      "id": 9,
       "title": "Church Hall",
       "khudba": "12:30 PM",
       "Salah": "12:55 PM",
@@ -150,6 +159,7 @@
       "khateeb": {}
     },
     {
+      "id": 10,
       "title": "ICCMW Masjid",
       "khudba": "01:30 PM",
       "Salah": "01:55 PM",
