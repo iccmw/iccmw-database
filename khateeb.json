@@ -33,11 +33,16 @@
     {
       "id": 7,
       "name": "Sh. Musa Ockeh",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/musaOckeh.png"
     },
     {
       "id": 8,
       "name": "Br. Arshad Shareef",
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Zakir Ahmed",
       "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
     }
   ]

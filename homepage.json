@@ -1,17 +1,21 @@
 {
   "ramadan": true,
-  "timing": {
-    "open": {
-      "time": "05:30",
-      "clock": "AM"
-    },
-    "close": {
-      "time": "05:30",
-      "clock": "AM"
+  "iccmw": {
+    "time": {
+      "open": "05:30 AM",
+      "close": "08:30 PM"
     }
   },
   "calendar": {
     "monthly": "https://drive.google.com/file/d/1QalBh3gRy5I5j6pvZGtJRP6GRWYHZfYm/view?usp=sharing",
     "ramadan": "https://drive.google.com/file/d/1QalBh3gRy5I5j6pvZGtJRP6GRWYHZfYm/view?usp=sharing"
-  }
+  },
+  "dailyMessage": [
+    {
+      "image": "https://i.imgur.com/7TihDxK.jpeg"
+    },
+    {
+      "image": ""
+    }
+  ]
 }
