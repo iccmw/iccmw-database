@@ -1,53 +1,53 @@
 {
   "khateeb": [
     {
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/drMohammadOckeh.jpg",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/drMohammadOckeh.jpg",
       "name": "Dr. Mohammad Ockeh",
       "id": 1
     },
     {
       "id": 2,
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/imamMasroor.jpg",
       "name": "Imam Masroor"
     },
     {
       "name": "Sh. Omar Ahmed",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/shOmarAhmed.jpg",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/shOmarAhmed.jpg",
       "id": 3
     },
     {
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/drImamShafique.jpg",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/drImamShafique.jpg",
       "name": "Dr. Imam Shafique",
       "id": 4
     },
     {
       "id": 5,
       "name": "Hafiz Dr. Nabil Omran",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/imamMasroor.jpg"
     },
     {
       "name": "Hafiz Dr. Zaid Nakadar",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/imamMasroor.jpg",
       "id": 6
     },
     {
       "id": 7,
       "name": "Sh. Musa Ockeh",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/musaOckeh.png"
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/musaOckeh.png"
     },
     {
       "name": "Br. Arshad Shareef",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/boardOfTrustees/arshad_shariff.jpg",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/boardOfTrustees/arshad_shariff.jpg",
       "id": 8
     },
     {
       "name": "Shaik Omar Ockeh",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/boardOfTrustees/omar_ockeh.jpg",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/boardOfTrustees/omar_ockeh.jpg",
       "id": 9
     },
     {
       "id": 10,
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/zahirAhmed.png",
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/khateeb/zahirAhmed.png",
       "name": "Dr. Zakir Ahmed"
     }
   ]

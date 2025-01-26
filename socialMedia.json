@@ -1,20 +1,20 @@
 {
-    "socialMedia": [
-        {
-            "id": 1,
-            "title": "ICCMW Updates ONLY Group",
-            "description": "",
-            "icon": "assets/images/social_media/whatsapp.png",
-            "mediaUrl": "https://chat.whatsapp.com/H7a9DocDQJMIiAqri1arxI",
-            "qrImageUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/social_media/whatsapp/image%20(1).jpeg"
-        },
-        {
-            "id": 2,
-            "title": "ICCMW YOUTH CENTER AND SPORTS",
-            "description": "",
-            "icon": "assets/images/social_media/whatsapp.png",
-            "mediaUrl": "https://chat.whatsapp.com/Itj9oMt1mCqJa8tMEWk198",
-            "qrImageUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/social_media/whatsapp/image%20(2).jpeg"
-        }
-    ]
+  "socialMedia": [
+    {
+      "id": 1,
+      "title": "ICCMW Updates ONLY Group",
+      "description": "",
+      "icon": "assets/images/social_media/whatsapp.png",
+      "mediaUrl": "https://chat.whatsapp.com/H7a9DocDQJMIiAqri1arxI",
+      "qrImageUrl": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/social_media/whatsapp/image%20(1).jpeg"
+    },
+    {
+      "id": 2,
+      "title": "ICCMW YOUTH CENTER AND SPORTS",
+      "description": "",
+      "icon": "assets/images/social_media/whatsapp.png",
+      "mediaUrl": "https://chat.whatsapp.com/Itj9oMt1mCqJa8tMEWk198",
+      "qrImageUrl": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/social_media/whatsapp/image%20(2).jpeg"
+    }
+  ]
 }

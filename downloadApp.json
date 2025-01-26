@@ -1,15 +1,15 @@
 {
   "heading": "Download Mobile App",
   "description": "Download the ICCMW app to get the latest updates on the prayer time, events, including important notifications.",
-  "mockupImage": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/mockup/mockup.png",
+  "mockupImage": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/mockup/mockup.png",
   "device": {
     "ios": {
       "url": "https://apps.apple.com/app/iccmw/id6738853369",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/download/appstore.png"
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/download/appstore.png"
     },
     "android": {
       "url": "https://play.google.com/apps/internaltest/4700194692658914364",
-      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/download/playstore.png"
+      "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/download/playstore.png"
     }
   }
 }
