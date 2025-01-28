@@ -26,7 +26,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Retail",
       "icon": "assets/images/business/shop.png",
       "subcategories": [
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 3,
       "name": "Professional Services",
       "icon": "assets/images/business/professional.png",
       "subcategories": [
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 4,
       "name": "Home Services",
       "icon": "assets/images/business/home.png",
       "subcategories": [
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 5,
       "name": "Taxi/Cab Services",
       "icon": "assets/images/business/transportation.png",
       "subcategories": [
@@ -121,7 +121,7 @@
     },
 
     {
-      "id": 11,
+      "id": 6,
       "name": "Automotive Services",
       "icon": "assets/images/business/automotive.png",
       "subcategories": [
