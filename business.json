@@ -1,147 +1,134 @@
 {
-  "categories": [
+  "busines": [
     {
-      "id": 1,
-      "name": "Food and Beverage",
-      "icon": "assets/images/business/food.png",
-      "subcategories": [
+      "id": "categories",
+      "categories": [
         {
-          "id": 101,
-          "name": "Restaurant",
-          "imageUrl": "assets/images/business/default/food.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/foodAndBeverage.json"
+          "id": 1,
+          "name": "Food and Beverage",
+          "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/food.png",
+          "subcategories": [
+            {
+              "id": 101,
+              "name": "Restaurant",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/foodAndBeverage.json"
+            },
+            {
+              "id": 102,
+              "name": "Catering Services",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/foodAndBeverage.json"
+            },
+            {
+              "id": 103,
+              "name": "Coffee Shop",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/foodAndBeverage.json"
+            }
+          ]
         },
         {
-          "id": 102,
-          "name": "Catering Services",
-          "imageUrl": "assets/images/business/default/food.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/foodAndBeverage.json"
+          "id": 2,
+          "name": "Retail",
+          "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/shop.png",
+          "subcategories": [
+            {
+              "id": 301,
+              "name": "Grocery Store",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/retail.json"
+            },
+            {
+              "id": 302,
+              "name": "Pharmacy",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/retail.json"
+            }
+          ]
         },
         {
-          "id": 103,
-          "name": "Coffee Shop",
-          "imageUrl": "assets/images/business/default/food.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/foodAndBeverage.json"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Retail",
-      "icon": "assets/images/business/shop.png",
-      "subcategories": [
-        {
-          "id": 301,
-          "name": "Grocery Store",
-          "imageUrl": "assets/images/business/default/retail.jpg",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/retail.json"
+          "id": 3,
+          "name": "Professional Services",
+          "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/professional.png",
+          "subcategories": [
+            {
+              "id": 501,
+              "name": "Legal Services (Law Firm)",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/professionalServices.json"
+            },
+            {
+              "id": 502,
+              "name": "Accounting and Bookkeeping",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/professionalServices.json"
+            },
+            {
+              "id": 503,
+              "name": "Financial Planning",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/professionalServices.json"
+            }
+          ]
         },
         {
-          "id": 302,
-          "name": "Pharmacy",
-          "imageUrl": "assets/images/business/default/retail.jpg",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/retail.json"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Professional Services",
-      "icon": "assets/images/business/professional.png",
-      "subcategories": [
-        {
-          "id": 501,
-          "name": "Legal Services (Law Firm)",
-          "imageUrl": "assets/images/business/default/professional.jpg",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/professionalServices.json"
+          "id": 4,
+          "name": "Home Services",
+          "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/home.png",
+          "subcategories": [
+            {
+              "id": 601,
+              "name": "Plumbing",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/homeServices.json"
+            },
+            {
+              "id": 602,
+              "name": "Electrical Services",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/homeServices.json"
+            },
+            {
+              "id": 603,
+              "name": "Landscaping",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/homeServices.json"
+            },
+            {
+              "id": 604,
+              "name": "Cleaning Services",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/homeServices.json"
+            },
+            {
+              "id": 605,
+              "name": "Roofing",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/homeServices.json"
+            }
+          ]
         },
         {
-          "id": 502,
-          "name": "Accounting and Bookkeeping",
-          "imageUrl": "assets/images/business/default/professional.jpg",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/professionalServices.json"
-        },
-        {
-          "id": 503,
-          "name": "Financial Planning",
-          "imageUrl": "assets/images/business/default/professional.jpg",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/professionalServices.json"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Home Services",
-      "icon": "assets/images/business/home.png",
-      "subcategories": [
-        {
-          "id": 601,
-          "name": "Plumbing",
-          "imageUrl": "assets/images/business/default/home.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
-        },
-        {
-          "id": 602,
-          "name": "Electrical Services",
-          "imageUrl": "assets/images/business/default/home.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
-        },
-        {
-          "id": 603,
-          "name": "Landscaping",
-          "imageUrl": "assets/images/business/default/home.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
-        },
-        {
-          "id": 604,
-          "name": "Cleaning Services",
-          "imageUrl": "assets/images/business/default/home.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
-        },
-        {
-          "id": 605,
-          "name": "Roofing",
-          "imageUrl": "assets/images/business/default/home.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/homeServices.json"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Taxi/Cab Services",
-      "icon": "assets/images/business/transportation.png",
-      "subcategories": [
-        {
-          "id": 901,
+          "id": 5,
           "name": "Taxi/Cab Services",
-          "imageUrl": "assets/images/business/default/cab.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/transportationAndLogistics.json"
-        }
-      ]
-    },
-
-    {
-      "id": 6,
-      "name": "Automotive Services",
-      "icon": "assets/images/business/automotive.png",
-      "subcategories": [
-        {
-          "id": 1101,
-          "name": "Car Repair",
-          "imageUrl": "assets/images/business/default/automotive.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/automotiveServices.json"
+          "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/transportation.png",
+          "subcategories": [
+            {
+              "id": 901,
+              "name": "Taxi/Cab Services",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/transportationAndLogistics.json"
+            }
+          ]
         },
         {
-          "id": 1102,
-          "name": "Auto Detailing",
-          "imageUrl": "assets/images/business/default/automotive.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/automotiveServices.json"
-        },
-        {
-          "id": 1103,
-          "name": "Car Dealership",
-          "imageUrl": "assets/images/business/default/automotive.png",
-          "jsonUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/data/assets/json/businessPage/automotiveServices.json"
+          "id": 6,
+          "name": "Automotive Services",
+          "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/automotive.png",
+          "subcategories": [
+            {
+              "id": 1101,
+              "name": "Car Repair",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/automotiveServices.json"
+            },
+            {
+              "id": 1102,
+              "name": "Auto Detailing",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/automotiveServices.json"
+            },
+            {
+              "id": 1103,
+              "name": "Car Dealership",
+              "jsonUrl": "https://raw.githubusercontent.com/iccmw/iccmw-database/refs/heads/main/localBusiness/automotiveServices.json"
+            }
+          ]
         }
       ]
     }
