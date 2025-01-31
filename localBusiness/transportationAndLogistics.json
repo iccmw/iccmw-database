@@ -1,9 +1,7 @@
 {
-    "subcategories": {
-        "id": 9,
-        "category": "Transportation and Logistics",
-        "data": [
-            {}
-        ]
-    }
+  "subcategories": {
+    "id": 9,
+    "category": "Transportation and Logistics",
+    "data": []
+  }
 }
