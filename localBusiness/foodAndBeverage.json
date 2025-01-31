@@ -9,6 +9,13 @@
         "subcategoriesId": 101,
         "description": "Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant Chinise fast food restaurant",
         "imageUrl": "https://c8.alamy.com/comp/E073T7/people-in-a-chinese-restaurant-in-markham-ontario-canada-E073T7.jpg",
+        "contact": true,
+        "links": [
+          {
+            "title": "Website",
+            "link": "kfc.com"
+          }
+        ],
         "pargraph": [
           "Paragraph 1",
           "Heading 2",
@@ -24,6 +31,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -39,6 +48,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -54,6 +65,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -69,6 +82,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -84,6 +99,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -99,6 +116,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -114,6 +133,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -129,6 +150,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -144,6 +167,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -159,6 +184,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -174,6 +201,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -189,6 +218,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -204,6 +235,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -219,6 +252,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
@@ -234,6 +269,8 @@
         "subcategoriesId": 101,
         "description": "",
         "imageUrl": "",
+        "contact": true,
+        "links": [],
         "paragraph": [
           "Paragraph 1",
           "Heading 2",
