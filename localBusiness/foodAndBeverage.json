@@ -32,7 +32,12 @@
         "description": "asdf",
         "imageUrl": "",
         "contact": true,
-        "links": [],
+        "links": [
+          {
+            "title": "Website",
+            "link": "kfc.com"
+          }
+        ],
         "paragraph": [
           "Paragraph 1",
           "paragraph 2",
