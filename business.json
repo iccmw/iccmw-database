@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Food and Beverage",
-      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/food.png",
+      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/business/food.png",
       "subcategories": [
         {
           "id": 101,
@@ -25,7 +25,7 @@
     {
       "id": 2,
       "name": "Retail",
-      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/shop.png",
+      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/business/shop.png",
       "subcategories": [
         {
           "id": 301,
@@ -42,7 +42,7 @@
     {
       "id": 3,
       "name": "Professional Services",
-      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/professional.png",
+      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/business/professional.png",
       "subcategories": [
         {
           "id": 501,
@@ -64,7 +64,7 @@
     {
       "id": 4,
       "name": "Home Services",
-      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/home.png",
+      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/business/home.png",
       "subcategories": [
         {
           "id": 601,
@@ -96,7 +96,7 @@
     {
       "id": 5,
       "name": "Taxi/Cab Services",
-      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/transportation.png",
+      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/business/transportation.png",
       "subcategories": [
         {
           "id": 901,
@@ -108,7 +108,7 @@
     {
       "id": 6,
       "name": "Automotive Services",
-      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-website-assets/refs/heads/main/images/icons/automotive.png",
+      "icon": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/business/automotive.png",
       "subcategories": [
         {
           "id": 1101,
