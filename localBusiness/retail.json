@@ -2,16 +2,6 @@
   "subcategories": {
     "id": 8,
     "category": "retail",
-    "data": [
-      {
-        "id": 8010000001,
-        "title": "Notary",
-        "subcategoriesId": 801,
-        "description": "",
-        "imageUrl": "",
-        "link": [],
-        "paragraph": []
-      }
-    ]
+    "data": []
   }
 }

@@ -1,0 +1,48 @@
+{
+  "analytics": {
+    "dashbard": [
+      {
+        "device": "android",
+        "download": 0,
+        "install": 2,
+        "uninstall": 0
+      },
+      {
+        "device": "ios",
+        "download": 0,
+        "install": 2,
+        "uninstall": 0
+      }
+    ],
+    "pie": {
+      "android": 10,
+      "ios": 20
+    },
+    "monthlyActiveUser": {
+      "January": {
+        "android": [
+          { "day": 1, "users": 100 },
+          { "day": 15, "users": 120 },
+          { "day": 31, "users": 150 }
+        ],
+        "ios": [
+          { "day": 1, "users": 80 },
+          { "day": 15, "users": 95 },
+          { "day": 31, "users": 110 }
+        ]
+      },
+      "February": {
+        "android": [
+          { "day": 1, "users": 155 },
+          { "day": 14, "users": 170 },
+          { "day": 28, "users": 0 }
+        ],
+        "ios": [
+          { "day": 1, "users": 115 },
+          { "day": 14, "users": 125 },
+          { "day": 28, "users": 0 }
+        ]
+      }
+    }
+  }
+}

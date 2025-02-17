@@ -2,59 +2,58 @@
   "duaRequest": true,
   "services": [
     {
+      "link": [],
       "id": 1,
-      "title": "Notary",
       "description": "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents",
-      "image": "",
       "contact": true,
-      "links": [],
+      "image": "",
+      "title": "Notary",
       "paragraph": ["Call Br kamal 914-606-0217"]
     },
     {
-      "id": 2,
-      "title": "ICCMW WeekDay Maktab Program",
-      "description": "",
-      "image": "",
       "contact": false,
-      "links": [
-        {
-          "title": "This form shall be used to register - Maktab Class of 2025-26 Registration Form",
-          "link": "https://docs.google.com/forms/d/e/1FAIpQLScL5qvO-fLswADdrM0ACmu0c_ghIKO648xhpdHCDjM_NVSdGA/viewform"
-        }
-      ],
+      "title": "ICCMW WeekDay Maktab Program",
       "paragraph": [
         "Boys & Girls Aged 5 & 15",
         "ICCMW ",
         "2 Grandview Blvd",
         "Yonkers, NY 10710"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Saturday Quran Tafseer in Urdu",
-      "description": "Topic: Quran Tafseer in Urdu",
-      "image": "",
-      "contact": false,
-      "links": [
+      ],
+      "link": [
         {
-          "title": "Weekly:",
-          "link": "https://us02web.zoom.us/meeting/tZEvce2hrTMiGNXir5oybwiA14P1qxMXzC_M/ics?icsToken=98tyKuGtrD0uE9eduBuGRpwMAI_oLPPztlxHjY1llQ2wDDlRdQrXZ7ZyY6NnPeDK&meetingMasterEventId=aZyzQxhgR0anw4C9GV2f4A"
-        },
-        {
-          "title": "Join Zoom Meeting",
-          "link": "https://us02web.zoom.us/j/85264938821?pwd=LfrD17bWrfzy7ThHmjiM4sbsbooCB3.1"
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLScL5qvO-fLswADdrM0ACmu0c_ghIKO648xhpdHCDjM_NVSdGA/viewform",
+          "title": "This form shall be used to register - Maktab Class of 2025-26 Registration Form"
         }
       ],
+      "description": "",
+      "id": 2,
+      "image": ""
+    },
+    {
+      "contact": false,
+      "title": "Saturday Quran Tafseer in Urdu",
+      "description": "Topic: Quran Tafseer in Urdu",
+      "id": 3,
       "paragraph": [
         "Time:",
         "10:00 pm India Time",
         "12:30 PM Eastern Time (US and Canada)",
         "Every week on Saturday",
-
         "Zoom Meeting Details",
         "Meeting ID: 852 6493 8821",
         "Passcode: 05102024"
-      ]
+      ],
+      "links": [
+        {
+          "link": "https://us02web.zoom.us/meeting/tZEvce2hrTMiGNXir5oybwiA14P1qxMXzC_M/ics?icsToken=98tyKuGtrD0uE9eduBuGRpwMAI_oLPPztlxHjY1llQ2wDDlRdQrXZ7ZyY6NnPeDK&meetingMasterEventId=aZyzQxhgR0anw4C9GV2f4A",
+          "title": "Weekly:"
+        },
+        {
+          "link": "",
+          "title": "Join Zoom Meeting"
+        }
+      ],
+      "image": "https://cdn.pixabay.com/photo/2015/11/03/08/56/service-1019821_640.jpg"
     }
   ]
 }
