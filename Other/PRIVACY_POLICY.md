@@ -6,8 +6,8 @@ This Privacy Policy explains how we collect, use, disclose, and protect the pers
 ### 1.1. Personal Information:
 We may collect personal information that you voluntarily provide to us when you interact with our website [https://iccmw.org], ICCMW App & ICCMW Admin App. This may include your name, email address (Optional), phone number (Optional), address(Optional) information you choose to provide.
 
-### 1.2. Location:
-The ICCMW App may access your device's location data to provide location-based services. 
+### 1.2. Location Data:
+The ICCMW App may access your device's location data to analyze user distribution and improve our services. This data is collected only when you grant the app permission to access your location. We use Firebase, a third-party service provided by Google, to collect and analyze this data. Firebase processes location data in accordance with its own privacy policy, which can be found at [https://policies.google.com/privacy]. You can control or disable location access through your device settings at any time.
 
 ## 2. Use of Information:
 ### 2.1. Personal Information:
