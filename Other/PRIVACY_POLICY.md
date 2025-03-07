@@ -16,6 +16,11 @@ We may use the personal information we collect for the following purposes:
 - To analyze and improve our website [https://iccmw.org], ICCMW App & ICCMW Admin App performance, functionality, and user experience.
 - To comply with applicable laws, regulations, and legal processes.
 
+### 2.2. Location Data:
+We use location data to:
+- Analyze user distribution and improve our services.
+- Enhance user experience by understanding how our app is used in different regions.
+
 ## 3. Disclosure of Information:
 ### 3.1. Legal Requirements:
 We may disclose your personal information if required by law, regulation, legal process, or government request. We may also disclose your information to enforce our website policies, protect our rights, or respond to claims of illegal activity or violations of third-party rights.
