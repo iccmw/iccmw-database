@@ -6,6 +6,9 @@ This Privacy Policy explains how we collect, use, disclose, and protect the pers
 ### 1.1. Personal Information:
 We may collect personal information that you voluntarily provide to us when you interact with our website [https://iccmw.org], ICCMW App & ICCMW Admin App. This may include your name, email address (Optional), phone number (Optional), address(Optional) information you choose to provide.
 
+### 1.2. Location Data:
+The ICCMW App may access your device's location data to provide location-based services. However, this location data is not disclosed, shared, or used outside the app's functionality and is not mentioned elsewhere in this privacy policy.
+
 ## 2. Use of Information:
 ### 2.1. Personal Information:
 We may use the personal information we collect for the following purposes:
