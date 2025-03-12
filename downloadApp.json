@@ -8,7 +8,7 @@
       "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/download/appstore.png"
     },
     "android": {
-      "url": "https://play.google.com/apps/internaltest/4700194692658914364",
+      "url": "https://play.google.com/store/apps/details?id=org.cloudpremises.iccmw",
       "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/download/playstore.png"
     }
   }
