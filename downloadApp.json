@@ -4,7 +4,7 @@
   "mockupImage": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/mockup/mockup.png",
   "device": {
     "ios": {
-      "url": "https://apps.apple.com/app/iccmw/id6738853369",
+      "url": "https://apps.apple.com/us/app/iccmw/id6738853369",
       "image": "https://raw.githubusercontent.com/iccmw/iccmw-assets/refs/heads/main/images/download/appstore.png"
     },
     "android": {
