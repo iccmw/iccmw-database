@@ -2758,12 +2758,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "05:03",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -2825,12 +2825,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "05:01",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -2892,12 +2892,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "04:59",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -2959,12 +2959,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "04:57",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -3026,12 +3026,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "04:55",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -3093,12 +3093,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "04:54",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -3160,12 +3160,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "04:52",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -3227,12 +3227,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "04:50",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -3294,12 +3294,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:30",
+            "time": "04:48",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -3361,12 +3361,12 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:46",
             "clock": "AM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -3428,7 +3428,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:45",
             "clock": "AM",
             "notification": true
           },
@@ -3495,7 +3495,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:43",
             "clock": "AM",
             "notification": true
           },
@@ -3562,7 +3562,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:41",
             "clock": "AM",
             "notification": true
           },
@@ -3629,7 +3629,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:39",
             "clock": "AM",
             "notification": true
           },
@@ -3696,7 +3696,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:38",
             "clock": "AM",
             "notification": true
           },
@@ -3763,7 +3763,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:36",
             "clock": "AM",
             "notification": true
           },
@@ -3830,7 +3830,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:34",
             "clock": "AM",
             "notification": true
           },
@@ -3897,7 +3897,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:32",
             "clock": "AM",
             "notification": true
           },
@@ -3964,7 +3964,7 @@
         },
         "Fajr": {
           "Adhaan": {
-            "time": "05:15",
+            "time": "04:31",
             "clock": "AM",
             "notification": true
           },
