@@ -12373,7 +12373,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:33",
+            "time": "04:37",
             "clock": "PM",
             "notification": true
           },
@@ -12440,7 +12440,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:32",
+            "time": "04:36 ",
             "clock": "PM",
             "notification": true
           },
@@ -12507,7 +12507,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:31",
+            "time": "04:35",
             "clock": "PM",
             "notification": true
           },
@@ -12574,7 +12574,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:29",
+            "time": "04:34",
             "clock": "PM",
             "notification": true
           },
@@ -12641,7 +12641,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:28",
+            "time": "04:33",
             "clock": "PM",
             "notification": true
           },
@@ -12708,7 +12708,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:27",
+            "time": "04:32",
             "clock": "PM",
             "notification": true
           },
@@ -12775,7 +12775,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:25",
+            "time": "04:31",
             "clock": "PM",
             "notification": true
           },
@@ -12842,7 +12842,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:24",
+            "time": "04:30",
             "clock": "PM",
             "notification": true
           },
@@ -12909,7 +12909,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:23",
+            "time": "04:29",
             "clock": "PM",
             "notification": true
           },
@@ -12976,7 +12976,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:21",
+            "time": "04:29",
             "clock": "PM",
             "notification": true
           },
@@ -13024,7 +13024,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13043,7 +13043,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:20",
+            "time": "04:27",
             "clock": "PM",
             "notification": true
           },
@@ -13091,7 +13091,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13110,7 +13110,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:19",
+            "time": "04:26",
             "clock": "PM",
             "notification": true
           },
@@ -13158,7 +13158,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13177,7 +13177,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:17",
+            "time": "04:25",
             "clock": "PM",
             "notification": true
           },
@@ -13225,7 +13225,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13244,7 +13244,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:16",
+            "time": "04:24",
             "clock": "PM",
             "notification": true
           },
@@ -13292,7 +13292,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13311,7 +13311,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:14",
+            "time": "04:23",
             "clock": "PM",
             "notification": true
           },
@@ -13359,7 +13359,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13378,7 +13378,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:13",
+            "time": "04:22",
             "clock": "PM",
             "notification": true
           },
@@ -13426,7 +13426,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13445,7 +13445,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:12",
+            "time": "04:21",
             "clock": "PM",
             "notification": true
           },
@@ -13493,7 +13493,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13512,7 +13512,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:10",
+            "time": "04:20",
             "clock": "PM",
             "notification": true
           },
@@ -13560,7 +13560,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13579,7 +13579,7 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:09",
+            "time": "04:18",
             "clock": "PM",
             "notification": true
           },
@@ -13646,12 +13646,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:07",
+            "time": "04:17",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -13694,7 +13694,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13713,12 +13713,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:06",
+            "time": "04:16",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -13761,7 +13761,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13780,12 +13780,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:05",
+            "time": "04:15",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -13828,7 +13828,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13847,12 +13847,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:03",
+            "time": "04:14",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -13895,7 +13895,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13914,12 +13914,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:02",
+            "time": "04:13",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -13962,7 +13962,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -13981,12 +13981,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "05:00",
+            "time": "04:11",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -14029,7 +14029,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -14048,12 +14048,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "04:59",
+            "time": "04:10",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -14096,7 +14096,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -14115,12 +14115,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "04:57",
+            "time": "04:09",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -14163,7 +14163,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -14182,12 +14182,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "04:56",
+            "time": "04:08",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -14230,7 +14230,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -14249,12 +14249,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "04:54",
+            "time": "04:07",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
@@ -14297,7 +14297,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "AM",
             "notification": true
           }
@@ -14316,12 +14316,12 @@
         },
         "Asr": {
           "Adhaan": {
-            "time": "04:53",
+            "time": "04:05",
             "clock": "PM",
             "notification": true
           },
           "Iqamah": {
-            "time": "05:30",
+            "time": "05:15",
             "clock": "PM",
             "notification": true
           }
