@@ -16431,7 +16431,7 @@
         }
       }
     },
-      "November": {
+    "November": {
       "1": {
         "Sunrise": {
           "time": "07:26",
@@ -16445,7 +16445,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:15",
+            "time": "05:30",
             "clock": "AM",
             "notification": true
           }
@@ -16469,7 +16469,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "03:15",
+            "time": "03:30",
             "clock": "PM",
             "notification": true
           }
@@ -16493,7 +16493,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:15",
+            "time": "08:00",
             "clock": "PM",
             "notification": true
           }
