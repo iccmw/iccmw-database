@@ -749,14 +749,14 @@
     "February": {
       "1": {
         "arabicDay": "13",
-        "Sunrise": { "notification": true, "time": "07:06", "clock": "PM" },
+        "Sunrise": { "notification": true, "time": "07:06", "clock": "AM" },
         "Dhuhr": {
           "Iqamah": { "notification": true, "clock": "PM", "time": "01:15" },
           "Adhaan": { "time": "12:09", "notification": true, "clock": "PM" }
         },
         "Fajr": {
           "Iqamah": { "notification": true, "time": "06:00", "clock": "AM" },
-          "Adhaan": { "time": "05:48", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "05:48", "clock": "AM", "notification": true }
         },
         "Isha": {
           "Adhaan": { "clock": "PM", "notification": true, "time": "06:31" },
@@ -789,9 +789,9 @@
           "Iqamah": { "time": "01:15", "notification": true, "clock": "PM" }
         },
         "arabicDay": "14",
-        "Sunrise": { "time": "07:05", "clock": "PM", "notification": true },
+        "Sunrise": { "time": "07:05", "clock": "AM", "notification": true },
         "Fajr": {
-          "Adhaan": { "clock": "PM", "time": "05:47", "notification": true },
+          "Adhaan": { "clock": "AM", "time": "05:47", "notification": true },
           "Iqamah": { "notification": true, "clock": "AM", "time": "06:00" }
         }
       },
@@ -805,9 +805,9 @@
           "Adhaan": { "clock": "PM", "notification": true, "time": "05:15" }
         },
         "arabicDay": "15",
-        "Sunrise": { "clock": "PM", "time": "07:04", "notification": true },
+        "Sunrise": { "clock": "AM", "time": "07:04", "notification": true },
         "Fajr": {
-          "Adhaan": { "time": "05:46", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "05:46", "clock": "AM", "notification": true },
           "Iqamah": { "time": "06:00", "notification": true, "clock": "AM" }
         },
         "Dhuhr": {
@@ -829,7 +829,7 @@
           "Adhaan": { "time": "05:16", "clock": "PM", "notification": true }
         },
         "Fajr": {
-          "Adhaan": { "time": "05:45", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "05:45", "clock": "AM", "notification": true },
           "Iqamah": { "notification": true, "clock": "AM", "time": "06:00" }
         },
         "Asr": {
@@ -837,20 +837,20 @@
           "Adhaan": { "notification": true, "time": "02:54", "clock": "PM" }
         },
         "arabicDay": "16",
-        "Sunrise": { "clock": "PM", "notification": true, "time": "07:03" },
+        "Sunrise": { "clock": "AM", "notification": true, "time": "07:03" },
         "Dhuhr": {
           "Iqamah": { "notification": true, "time": "01:15", "clock": "PM" },
           "Adhaan": { "notification": true, "clock": "PM", "time": "12:09" }
         }
       },
       "5": {
-        "Sunrise": { "notification": true, "time": "07:02", "clock": "PM" },
+        "Sunrise": { "notification": true, "time": "07:02", "clock": "AM" },
         "Isha": {
           "Iqamah": { "clock": "PM", "notification": true, "time": "07:30" },
           "Adhaan": { "clock": "PM", "time": "06:35", "notification": true }
         },
         "Fajr": {
-          "Adhaan": { "clock": "PM", "time": "05:44", "notification": true },
+          "Adhaan": { "clock": "AM", "time": "05:44", "notification": true },
           "Iqamah": { "time": "06:00", "notification": true, "clock": "AM" }
         },
         "Maghrib": {
@@ -869,7 +869,7 @@
       },
       "6": {
         "Fajr": {
-          "Adhaan": { "notification": true, "time": "05:43", "clock": "PM" },
+          "Adhaan": { "notification": true, "time": "05:43", "clock": "AM" },
           "Iqamah": { "notification": true, "time": "06:00", "clock": "AM" }
         },
         "Isha": {
@@ -880,7 +880,7 @@
           "Iqamah": { "clock": "PM", "notification": true, "time": "01:15" },
           "Adhaan": { "clock": "PM", "time": "12:09", "notification": true }
         },
-        "Sunrise": { "notification": true, "time": "07:01", "clock": "PM" },
+        "Sunrise": { "notification": true, "time": "07:01", "clock": "AM" },
         "arabicDay": "18",
         "Asr": {
           "Adhaan": { "time": "02:56", "notification": true, "clock": "PM" },
@@ -896,7 +896,7 @@
           "Iqamah": { "clock": "PM", "notification": true, "time": "01:15" },
           "Adhaan": { "time": "12:09", "clock": "PM", "notification": true }
         },
-        "Sunrise": { "clock": "PM", "time": "06:59", "notification": true },
+        "Sunrise": { "clock": "AM", "time": "06:59", "notification": true },
         "arabicDay": "19",
         "Asr": {
           "Adhaan": { "notification": true, "clock": "PM", "time": "02:57" },
@@ -904,7 +904,7 @@
         },
         "Fajr": {
           "Iqamah": { "clock": "AM", "notification": true, "time": "06:00" },
-          "Adhaan": { "time": "05:42", "notification": true, "clock": "PM" }
+          "Adhaan": { "time": "05:42", "notification": true, "clock": "AM" }
         },
         "Maghrib": {
           "Adhaan": { "notification": true, "time": "05:20", "clock": "PM" },
@@ -916,14 +916,14 @@
         }
       },
       "8": {
-        "Sunrise": { "time": "06:58", "clock": "PM", "notification": true },
+        "Sunrise": { "time": "06:58", "clock": "AM", "notification": true },
         "Dhuhr": {
           "Iqamah": { "notification": true, "time": "01:15", "clock": "PM" },
           "Adhaan": { "clock": "PM", "notification": true, "time": "12:09" }
         },
         "Fajr": {
           "Iqamah": { "notification": true, "clock": "AM", "time": "06:00" },
-          "Adhaan": { "clock": "PM", "notification": true, "time": "05:41" }
+          "Adhaan": { "clock": "AM", "notification": true, "time": "05:41" }
         },
         "Isha": {
           "Adhaan": { "clock": "PM", "notification": true, "time": "06:38" },
@@ -950,14 +950,14 @@
         },
         "Fajr": {
           "Iqamah": { "notification": true, "clock": "AM", "time": "06:00" },
-          "Adhaan": { "notification": true, "time": "05:40", "clock": "PM" }
+          "Adhaan": { "notification": true, "time": "05:40", "clock": "AM" }
         },
         "Asr": {
           "Adhaan": { "clock": "PM", "notification": true, "time": "02:59" },
           "Iqamah": { "notification": true, "time": "03:45", "clock": "PM" }
         },
         "arabicDay": "21",
-        "Sunrise": { "clock": "PM", "time": "06:57", "notification": true },
+        "Sunrise": { "clock": "AM", "time": "06:57", "notification": true },
         "Dhuhr": {
           "Iqamah": { "clock": "PM", "notification": true, "time": "01:15" },
           "Adhaan": { "notification": true, "time": "12:10", "clock": "PM" }
@@ -977,10 +977,10 @@
           "Adhaan": { "time": "03:00", "clock": "PM", "notification": true }
         },
         "Fajr": {
-          "Adhaan": { "time": "05:39", "notification": true, "clock": "PM" },
+          "Adhaan": { "time": "05:39", "notification": true, "clock": "AM" },
           "Iqamah": { "time": "06:00", "clock": "AM", "notification": true }
         },
-        "Sunrise": { "notification": true, "time": "06:56", "clock": "PM" },
+        "Sunrise": { "notification": true, "time": "06:56", "clock": "AM" },
         "arabicDay": "22",
         "Maghrib": {
           "Iqamah": { "notification": true, "clock": "PM", "time": "05:29" },
@@ -997,7 +997,7 @@
           "Iqamah": { "notification": true, "time": "01:15", "clock": "PM" }
         },
         "Fajr": {
-          "Adhaan": { "time": "05:38", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "05:38", "clock": "AM", "notification": true },
           "Iqamah": { "clock": "AM", "notification": true, "time": "06:00" }
         },
         "arabicDay": "23",
@@ -1009,10 +1009,10 @@
           "Adhaan": { "clock": "PM", "time": "05:25", "notification": true },
           "Iqamah": { "clock": "PM", "time": "05:30", "notification": true }
         },
-        "Sunrise": { "notification": true, "clock": "PM", "time": "06:55" }
+        "Sunrise": { "notification": true, "clock": "AM", "time": "06:55" }
       },
       "12": {
-        "Sunrise": { "clock": "PM", "time": "06:53", "notification": true },
+        "Sunrise": { "clock": "AM", "time": "06:53", "notification": true },
         "Dhuhr": {
           "Adhaan": { "notification": true, "clock": "PM", "time": "12:10" },
           "Iqamah": { "notification": true, "time": "01:15", "clock": "PM" }
@@ -1022,7 +1022,7 @@
           "Adhaan": { "time": "05:26", "clock": "PM", "notification": true }
         },
         "Fajr": {
-          "Adhaan": { "time": "05:37", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "05:37", "clock": "AM", "notification": true },
           "Iqamah": { "clock": "AM", "notification": true, "time": "06:00" }
         },
         "Asr": {
@@ -1046,7 +1046,7 @@
         },
         "Fajr": {
           "Iqamah": { "clock": "AM", "time": "06:00", "notification": true },
-          "Adhaan": { "time": "05:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "05:36", "clock": "AM", "notification": true }
         },
         "Isha": {
           "Iqamah": { "time": "07:30", "notification": true, "clock": "PM" },
@@ -1057,10 +1057,10 @@
           "Iqamah": { "clock": "PM", "notification": true, "time": "04:00" },
           "Adhaan": { "clock": "PM", "notification": true, "time": "03:03" }
         },
-        "Sunrise": { "notification": true, "time": "06:52", "clock": "PM" }
+        "Sunrise": { "notification": true, "time": "06:52", "clock": "AM" }
       },
       "14": {
-        "Sunrise": { "time": "06:51", "notification": true, "clock": "PM" },
+        "Sunrise": { "time": "06:51", "notification": true, "clock": "AM" },
         "arabicDay": "26",
         "Maghrib": {
           "Adhaan": { "notification": true, "clock": "PM", "time": "05:29" },
@@ -1079,7 +1079,7 @@
           "Iqamah": { "time": "04:00", "notification": true, "clock": "PM" }
         },
         "Fajr": {
-          "Adhaan": { "clock": "PM", "notification": true, "time": "05:34" },
+          "Adhaan": { "clock": "AM", "notification": true, "time": "05:34" },
           "Iqamah": { "clock": "AM", "notification": true, "time": "06:00" }
         }
       },
@@ -1088,7 +1088,7 @@
           "Adhaan": { "notification": true, "time": "05:30", "clock": "PM" },
           "Iqamah": { "clock": "PM", "time": "05:35", "notification": true }
         },
-        "Sunrise": { "time": "06:50", "clock": "PM", "notification": true },
+        "Sunrise": { "time": "06:50", "clock": "AM", "notification": true },
         "Asr": {
           "Iqamah": { "notification": true, "time": "04:00", "clock": "PM" },
           "Adhaan": { "clock": "PM", "time": "03:05", "notification": true }
@@ -1103,13 +1103,13 @@
           "Iqamah": { "notification": true, "time": "01:15", "clock": "PM" }
         },
         "Fajr": {
-          "Adhaan": { "notification": true, "clock": "PM", "time": "05:33" },
+          "Adhaan": { "notification": true, "clock": "AM", "time": "05:33" },
           "Iqamah": { "notification": true, "time": "06:00", "clock": "AM" }
         }
       },
       "16": {
         "Fajr": {
-          "Adhaan": { "clock": "PM", "time": "05:32", "notification": true },
+          "Adhaan": { "clock": "AM", "time": "05:32", "notification": true },
           "Iqamah": { "notification": true, "clock": "AM", "time": "06:00" }
         },
         "Dhuhr": {
@@ -1129,15 +1129,15 @@
           "Iqamah": { "clock": "PM", "notification": true, "time": "05:36" },
           "Adhaan": { "time": "05:31", "notification": true, "clock": "PM" }
         },
-        "Sunrise": { "clock": "PM", "time": "06:48", "notification": true }
+        "Sunrise": { "clock": "AM", "time": "06:48", "notification": true }
       },
       "17": {
         "Fajr": {
           "Iqamah": { "notification": true, "clock": "AM", "time": "06:00" },
-          "Adhaan": { "time": "05:31", "notification": true, "clock": "PM" }
+          "Adhaan": { "time": "05:31", "notification": true, "clock": "AM" }
         },
         "arabicDay": "29",
-        "Sunrise": { "notification": true, "time": "06:47", "clock": "PM" },
+        "Sunrise": { "notification": true, "time": "06:47", "clock": "AM" },
         "Asr": {
           "Adhaan": { "time": "03:07", "notification": true, "clock": "PM" },
           "Iqamah": { "time": "04:15", "clock": "PM", "notification": true }
@@ -1157,7 +1157,7 @@
       },
       "18": {
         "arabicDay": "30",
-        "Sunrise": { "time": "06:46", "clock": "PM", "notification": true },
+        "Sunrise": { "time": "06:46", "clock": "AM", "notification": true },
         "Isha": {
           "Adhaan": { "clock": "PM", "notification": true, "time": "06:50" },
           "Iqamah": { "time": "08:00", "notification": true, "clock": "PM" }
@@ -1176,7 +1176,7 @@
         },
         "Fajr": {
           "Iqamah": { "clock": "AM", "time": "05:40", "notification": true },
-          "Adhaan": { "time": "05:30", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "05:30", "clock": "AM", "notification": true }
         }
       },
       "19": {
@@ -1194,10 +1194,10 @@
         },
         "Fajr": {
           "Iqamah": { "notification": true, "clock": "AM", "time": "05:40" },
-          "Adhaan": { "notification": true, "clock": "PM", "time": "05:28" }
+          "Adhaan": { "notification": true, "clock": "AM", "time": "05:28" }
         },
         "arabicDay": "1 (Ramadan)",
-        "Sunrise": { "time": "06:44", "clock": "PM", "notification": true },
+        "Sunrise": { "time": "06:44", "clock": "AM", "notification": true },
         "Dhuhr": {
           "Iqamah": { "time": "01:15", "notification": true, "clock": "PM" },
           "Adhaan": { "notification": true, "clock": "PM", "time": "12:09" }
@@ -1213,7 +1213,7 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true },
           "Adhaan": { "time": "12:09", "clock": "PM", "notification": true }
         },
-        "Sunrise": { "time": "06:43", "clock": "PM", "notification": true },
+        "Sunrise": { "time": "06:43", "clock": "AM", "notification": true },
         "Isha": {
           "Iqamah": { "time": "08:00", "notification": true, "clock": "PM" },
           "Adhaan": { "time": "06:52", "clock": "PM", "notification": true }
@@ -1223,12 +1223,12 @@
           "Iqamah": { "notification": true, "time": "04:15", "clock": "PM" }
         },
         "Fajr": {
-          "Adhaan": { "clock": "PM", "time": "05:27", "notification": true },
+          "Adhaan": { "clock": "AM", "time": "05:27", "notification": true },
           "Iqamah": { "clock": "AM", "notification": true, "time": "05:40" }
         }
       },
       "21": {
-        "Sunrise": { "notification": true, "time": "06:41", "clock": "PM" },
+        "Sunrise": { "notification": true, "time": "06:41", "clock": "AM" },
         "arabicDay": "3",
         "Dhuhr": {
           "Iqamah": { "notification": true, "time": "01:15", "clock": "PM" },
@@ -1239,7 +1239,7 @@
           "Iqamah": { "clock": "PM", "time": "08:00", "notification": true }
         },
         "Fajr": {
-          "Adhaan": { "clock": "PM", "time": "05:26", "notification": true },
+          "Adhaan": { "clock": "AM", "time": "05:26", "notification": true },
           "Iqamah": { "time": "05:40", "clock": "AM", "notification": true }
         },
         "Maghrib": {
@@ -1265,26 +1265,26 @@
           "Iqamah": { "time": "06:18", "clock": "PM", "notification": true },
           "Adhaan": { "clock": "PM", "notification": true, "time": "05:38" }
         },
-        "Sunrise": { "clock": "PM", "time": "06:40", "notification": true },
+        "Sunrise": { "clock": "AM", "time": "06:40", "notification": true },
         "Asr": {
           "Iqamah": { "notification": true, "time": "04:15", "clock": "PM" },
           "Adhaan": { "clock": "PM", "notification": true, "time": "03:11" }
         },
         "Fajr": {
-          "Adhaan": { "clock": "PM", "time": "05:24", "notification": true },
+          "Adhaan": { "clock": "AM", "time": "05:24", "notification": true },
           "Iqamah": { "clock": "AM", "notification": true, "time": "05:40" }
         }
       },
       "23": {
         "arabicDay": "5",
-        "Sunrise": { "clock": "PM", "notification": true, "time": "06:38" },
+        "Sunrise": { "clock": "AM", "notification": true, "time": "06:38" },
         "Maghrib": {
           "Iqamah": { "time": "06:20", "notification": true, "clock": "PM" },
           "Adhaan": { "notification": true, "clock": "PM", "time": "05:40" }
         },
         "Fajr": {
           "Iqamah": { "time": "05:40", "notification": true, "clock": "AM" },
-          "Adhaan": { "notification": true, "clock": "PM", "time": "05:23" }
+          "Adhaan": { "notification": true, "clock": "AM", "time": "05:23" }
         },
         "Isha": {
           "Iqamah": { "time": "08:00", "notification": true, "clock": "PM" },
@@ -1313,10 +1313,10 @@
           "Adhaan": { "notification": true, "clock": "PM", "time": "05:41" }
         },
         "arabicDay": "6",
-        "Sunrise": { "clock": "PM", "time": "06:37", "notification": true },
+        "Sunrise": { "clock": "AM", "time": "06:37", "notification": true },
         "Fajr": {
           "Iqamah": { "notification": true, "clock": "AM", "time": "05:40" },
-          "Adhaan": { "clock": "PM", "time": "05:21", "notification": true }
+          "Adhaan": { "clock": "AM", "time": "05:21", "notification": true }
         },
         "Dhuhr": {
           "Iqamah": { "notification": true, "time": "01:15", "clock": "PM" },
@@ -1324,7 +1324,7 @@
         }
       },
       "25": {
-        "Sunrise": { "time": "06:35", "notification": true, "clock": "PM" },
+        "Sunrise": { "time": "06:35", "notification": true, "clock": "AM" },
         "Dhuhr": {
           "Iqamah": { "clock": "PM", "time": "01:15", "notification": true },
           "Adhaan": { "time": "12:08", "notification": true, "clock": "PM" }
@@ -1339,7 +1339,7 @@
         },
         "Fajr": {
           "Iqamah": { "notification": true, "time": "05:40", "clock": "AM" },
-          "Adhaan": { "time": "05:20", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "05:20", "clock": "AM", "notification": true }
         },
         "arabicDay": "7",
         "Asr": {
@@ -1348,7 +1348,7 @@
         }
       },
       "26": {
-        "Sunrise": { "notification": true, "clock": "PM", "time": "06:34" },
+        "Sunrise": { "notification": true, "clock": "AM", "time": "06:34" },
         "Isha": {
           "Iqamah": { "clock": "PM", "time": "08:00", "notification": true },
           "Adhaan": { "time": "06:58", "clock": "PM", "notification": true }
@@ -1367,7 +1367,7 @@
           "Iqamah": { "notification": true, "time": "04:15", "clock": "PM" }
         },
         "Fajr": {
-          "Adhaan": { "notification": true, "clock": "PM", "time": "05:19" },
+          "Adhaan": { "notification": true, "clock": "AM", "time": "05:19" },
           "Iqamah": { "notification": true, "clock": "AM", "time": "05:40" }
         }
       },
@@ -1381,13 +1381,13 @@
           "Adhaan": { "time": "07:00", "clock": "PM", "notification": true },
           "Iqamah": { "time": "08:00", "notification": true, "clock": "PM" }
         },
-        "Sunrise": { "clock": "PM", "notification": true, "time": "06:32" },
+        "Sunrise": { "clock": "AM", "notification": true, "time": "06:32" },
         "Asr": {
           "Iqamah": { "notification": true, "clock": "PM", "time": "04:15" },
           "Adhaan": { "clock": "PM", "time": "03:15", "notification": true }
         },
         "Fajr": {
-          "Adhaan": { "time": "05:17", "notification": true, "clock": "PM" },
+          "Adhaan": { "time": "05:17", "notification": true, "clock": "AM" },
           "Iqamah": { "clock": "AM", "notification": true, "time": "05:40" }
         },
         "Dhuhr": {
@@ -1411,13 +1411,13 @@
         },
         "Fajr": {
           "Iqamah": { "time": "05:25", "clock": "AM", "notification": true },
-          "Adhaan": { "time": "05:16", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "05:16", "clock": "AM", "notification": true }
         },
         "Asr": {
           "Iqamah": { "time": "04:15", "clock": "PM", "notification": true },
           "Adhaan": { "clock": "PM", "time": "03:16", "notification": true }
         },
-        "Sunrise": { "time": "06:31", "clock": "PM", "notification": true }
+        "Sunrise": { "time": "06:31", "clock": "AM", "notification": true }
       }
     },
     "March": {
