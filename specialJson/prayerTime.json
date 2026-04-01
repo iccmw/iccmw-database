@@ -2113,7 +2113,7 @@
     "April": {
       "1": {
         "dayNumber": "1",
-        "dayString": "1",
+        "dayString": "0",
         "dayName": "Wednesday",
         "arabicDay": "01",
         "Sunrise": {
@@ -2152,7 +2152,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:29",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2176,7 +2176,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:08",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2184,7 +2184,7 @@
       },
       "2": {
         "dayNumber": "2",
-        "dayString": "2",
+        "dayString": "0",
         "dayName": "Thursday",
         "arabicDay": "14",
         "Sunrise": {
@@ -2223,7 +2223,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:29",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2247,7 +2247,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:09",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2255,7 +2255,7 @@
       },
       "3": {
         "dayNumber": "3",
-        "dayString": "3",
+        "dayString": "0",
         "dayName": "Friday",
         "arabicDay": "15",
         "Sunrise": {
@@ -2318,7 +2318,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:10",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2326,7 +2326,7 @@
       },
       "4": {
         "dayNumber": "4",
-        "dayString": "4",
+        "dayString": "0",
         "dayName": "Saturday",
         "arabicDay": "16",
         "Sunrise": {
@@ -2365,7 +2365,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:31",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2389,7 +2389,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:11",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2397,7 +2397,7 @@
       },
       "5": {
         "dayNumber": "5",
-        "dayString": "5",
+        "dayString": "0",
         "dayName": "Sunday",
         "arabicDay": "17",
         "Sunrise": {
@@ -2436,7 +2436,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:32",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2460,7 +2460,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:13",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2468,7 +2468,7 @@
       },
       "6": {
         "dayNumber": "6",
-        "dayString": "6",
+        "dayString": "0",
         "dayName": "Monday",
         "arabicDay": "18",
         "Sunrise": {
@@ -2507,7 +2507,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:32",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2531,7 +2531,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:14",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2539,7 +2539,7 @@
       },
       "7": {
         "dayNumber": "7",
-        "dayString": "7",
+        "dayString": "0",
         "dayName": "Tuesday",
         "arabicDay": "19",
         "Sunrise": {
@@ -2578,7 +2578,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:33",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2602,7 +2602,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:15",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2610,7 +2610,7 @@
       },
       "8": {
         "dayNumber": "8",
-        "dayString": "8",
+        "dayString": "0",
         "dayName": "Wednesday",
         "arabicDay": "20",
         "Sunrise": {
@@ -2649,7 +2649,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:34",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2673,7 +2673,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:17",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2681,7 +2681,7 @@
       },
       "9": {
         "dayNumber": "9",
-        "dayString": "9",
+        "dayString": "0",
         "dayName": "Thursday",
         "arabicDay": "21",
         "Sunrise": {
@@ -2720,7 +2720,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:34",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2744,7 +2744,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:18",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2752,7 +2752,7 @@
       },
       "10": {
         "dayNumber": "10",
-        "dayString": "10",
+        "dayString": "0",
         "dayName": "Friday",
         "arabicDay": "22",
         "Sunrise": {
@@ -2791,7 +2791,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:35",
+            "time": "05:30",
             "clock": "PM",
             "notification": true
           }
@@ -2815,7 +2815,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:19",
+            "time": "09:00",
             "clock": "PM",
             "notification": true
           }
@@ -2823,7 +2823,7 @@
       },
       "11": {
         "dayNumber": "11",
-        "dayString": "11",
+        "dayString": "0",
         "dayName": "Saturday",
         "arabicDay": "23",
         "Sunrise": {
@@ -2862,7 +2862,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:36",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -2886,7 +2886,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:20",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -2894,7 +2894,7 @@
       },
       "12": {
         "dayNumber": "12",
-        "dayString": "12",
+        "dayString": "0",
         "dayName": "Sunday",
         "arabicDay": "24",
         "Sunrise": {
@@ -2933,7 +2933,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:36",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -2957,7 +2957,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:22",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -2965,7 +2965,7 @@
       },
       "13": {
         "dayNumber": "13",
-        "dayString": "13",
+        "dayString": "0",
         "dayName": "Monday",
         "arabicDay": "25",
         "Sunrise": {
@@ -3004,7 +3004,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:37",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3028,7 +3028,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:23",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3036,7 +3036,7 @@
       },
       "14": {
         "dayNumber": "14",
-        "dayString": "14",
+        "dayString": "0",
         "dayName": "Tuesday",
         "arabicDay": "26",
         "Sunrise": {
@@ -3075,7 +3075,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:38",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3099,7 +3099,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:24",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3107,7 +3107,7 @@
       },
       "15": {
         "dayNumber": "15",
-        "dayString": "15",
+        "dayString": "0",
         "dayName": "Wednesday",
         "arabicDay": "27",
         "Sunrise": {
@@ -3146,7 +3146,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:38",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3170,7 +3170,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:26",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3178,7 +3178,7 @@
       },
       "16": {
         "dayNumber": "16",
-        "dayString": "16",
+        "dayString": "0",
         "dayName": "Thursday",
         "arabicDay": "28",
         "Sunrise": {
@@ -3217,7 +3217,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:39",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3241,7 +3241,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:27",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3249,7 +3249,7 @@
       },
       "17": {
         "dayNumber": "17",
-        "dayString": "17",
+        "dayString": "0",
         "dayName": "Friday",
         "arabicDay": "29",
         "Sunrise": {
@@ -3288,7 +3288,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:40",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3312,7 +3312,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:28",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3320,7 +3320,7 @@
       },
       "18": {
         "dayNumber": "18",
-        "dayString": "18",
+        "dayString": "0",
         "dayName": "Saturday",
         "arabicDay": "1-Dhul Qadah",
         "Sunrise": {
@@ -3359,7 +3359,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:40",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3383,7 +3383,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:30",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3391,7 +3391,7 @@
       },
       "19": {
         "dayNumber": "19",
-        "dayString": "19",
+        "dayString": "0",
         "dayName": "Sunday",
         "arabicDay": "2",
         "Sunrise": {
@@ -3430,7 +3430,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:41",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3454,7 +3454,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:31",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3462,7 +3462,7 @@
       },
       "20": {
         "dayNumber": "20",
-        "dayString": "20",
+        "dayString": "0",
         "dayName": "Monday",
         "arabicDay": "3",
         "Sunrise": {
@@ -3501,7 +3501,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:41",
+            "time": "05:45",
             "clock": "PM",
             "notification": true
           }
@@ -3525,7 +3525,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:32",
+            "time": "09:15",
             "clock": "PM",
             "notification": true
           }
@@ -3533,7 +3533,7 @@
       },
       "21": {
         "dayNumber": "21",
-        "dayString": "21",
+        "dayString": "0",
         "dayName": "Tuesday",
         "arabicDay": "4",
         "Sunrise": {
@@ -3572,7 +3572,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:42",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -3596,7 +3596,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:34",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -3604,7 +3604,7 @@
       },
       "22": {
         "dayNumber": "22",
-        "dayString": "22",
+        "dayString": "0",
         "dayName": "Wednesday",
         "arabicDay": "5",
         "Sunrise": {
@@ -3643,7 +3643,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:43",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -3667,7 +3667,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:35",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -3675,7 +3675,7 @@
       },
       "23": {
         "dayNumber": "23",
-        "dayString": "23",
+        "dayString": "0",
         "dayName": "Thursday",
         "arabicDay": "6",
         "Sunrise": {
@@ -3714,7 +3714,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:43",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -3738,7 +3738,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:37",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -3746,7 +3746,7 @@
       },
       "24": {
         "dayNumber": "24",
-        "dayString": "24",
+        "dayString": "0",
         "dayName": "Friday",
         "arabicDay": "7",
         "Sunrise": {
@@ -3785,7 +3785,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:44",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -3809,7 +3809,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:38",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -3817,7 +3817,7 @@
       },
       "25": {
         "dayNumber": "25",
-        "dayString": "25",
+        "dayString": "0",
         "dayName": "Saturday",
         "arabicDay": "8",
         "Sunrise": {
@@ -3856,7 +3856,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -3880,7 +3880,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:39",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -3888,7 +3888,7 @@
       },
       "26": {
         "dayNumber": "26",
-        "dayString": "26",
+        "dayString": "0",
         "dayName": "Sunday",
         "arabicDay": "9",
         "Sunrise": {
@@ -3927,7 +3927,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:45",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -3951,7 +3951,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:41",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -3959,7 +3959,7 @@
       },
       "27": {
         "dayNumber": "27",
-        "dayString": "27",
+        "dayString": "0",
         "dayName": "Monday",
         "arabicDay": "10",
         "Sunrise": {
@@ -3998,7 +3998,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:46",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -4022,7 +4022,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:42",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -4030,7 +4030,7 @@
       },
       "28": {
         "dayNumber": "28",
-        "dayString": "28",
+        "dayString": "0",
         "dayName": "Tuesday",
         "arabicDay": "11",
         "Sunrise": {
@@ -4069,7 +4069,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:46",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -4093,7 +4093,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:44",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -4101,7 +4101,7 @@
       },
       "29": {
         "dayNumber": "29",
-        "dayString": "29",
+        "dayString": "0",
         "dayName": "Wednesday",
         "arabicDay": "12",
         "Sunrise": {
@@ -4140,7 +4140,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:47",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -4164,7 +4164,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:45",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
@@ -4172,7 +4172,7 @@
       },
       "30": {
         "dayNumber": "30",
-        "dayString": "30",
+        "dayString": "0",
         "dayName": "Thursday",
         "arabicDay": "01",
         "Sunrise": {
@@ -4211,7 +4211,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "05:48",
+            "time": "06:00",
             "clock": "PM",
             "notification": true
           }
@@ -4235,7 +4235,7 @@
             "notification": true
           },
           "Iqamah": {
-            "time": "09:46",
+            "time": "09:30",
             "clock": "PM",
             "notification": true
           }
