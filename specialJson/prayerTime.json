@@ -5026,15 +5026,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:53", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:53", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:21", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:26", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:21", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:26", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "21:59", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "09:59", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5049,15 +5049,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:53", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:53", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:22", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:27", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:22", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:27", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:00", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:00", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5072,15 +5072,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:54", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:54", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:23", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:28", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:23", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:28", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:01", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:01", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5095,15 +5095,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:54", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:54", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:23", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:28", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:23", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:28", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:02", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:02", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5118,15 +5118,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:54", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:54", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:24", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:29", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:24", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:29", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:03", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:03", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5141,15 +5141,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:54", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:54", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:25", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:30", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:25", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:30", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:03", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:03", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5164,15 +5164,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:55", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:55", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:25", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:30", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:25", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:30", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:04", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:04", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5187,15 +5187,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:55", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:55", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:26", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:31", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:26", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:31", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:05", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:05", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5210,15 +5210,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:55", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:55", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:26", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:31", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:26", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:31", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:06", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:06", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5233,15 +5233,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:56", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:56", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:27", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:32", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:27", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:32", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:07", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:07", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5256,15 +5256,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:56", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:56", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:27", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:32", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:27", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:32", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:07", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:07", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5279,15 +5279,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:56", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:56", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:28", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:33", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:28", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:33", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:08", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:08", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5302,15 +5302,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:56", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:56", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:28", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:33", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:28", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:33", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:08", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:08", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5325,15 +5325,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:57", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:57", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:29", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:34", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:29", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:34", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:09", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:09", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5348,15 +5348,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:57", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:57", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:29", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:34", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:29", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:34", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:10", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:10", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5371,15 +5371,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:57", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:57", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:30", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:35", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:30", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:35", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:10", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:10", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5394,15 +5394,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:57", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:57", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:30", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:35", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:30", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:35", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:10", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:10", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5417,15 +5417,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:58", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:58", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:30", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:35", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:30", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:35", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:11", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:11", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5440,15 +5440,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:58", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:58", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:30", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:35", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:30", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:35", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:11", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:11", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5463,15 +5463,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:58", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:58", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:11", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:11", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5486,15 +5486,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:58", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:58", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5509,15 +5509,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:59", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:59", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5532,15 +5532,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:59", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:59", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5555,15 +5555,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:59", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:59", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5578,15 +5578,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:59", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:59", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5601,15 +5601,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:59", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:59", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5624,15 +5624,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "16:59", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "04:59", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5647,15 +5647,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "17:00", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "05:00", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:12", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:12", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5670,15 +5670,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "17:00", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "05:00", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:11", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:11", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
@@ -5693,15 +5693,15 @@
           "Iqamah": { "time": "01:15", "clock": "PM", "notification": true }
         },
         "Asr": {
-          "Adhaan": { "time": "17:00", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "05:00", "clock": "PM", "notification": true },
           "Iqamah": { "time": "06:15", "clock": "PM", "notification": true }
         },
         "Maghrib": {
-          "Adhaan": { "time": "20:31", "clock": "PM", "notification": true },
-          "Iqamah": { "time": "20:36", "clock": "PM", "notification": true }
+          "Adhaan": { "time": "08:31", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "08:36", "clock": "PM", "notification": true }
         },
         "Isha": {
-          "Adhaan": { "time": "22:11", "clock": "PM", "notification": true },
+          "Adhaan": { "time": "10:11", "clock": "PM", "notification": true },
           "Iqamah": { "time": "10:15", "clock": "PM", "notification": true }
         }
       },
