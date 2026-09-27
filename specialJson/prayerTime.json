@@ -16042,7 +16042,8 @@
           "Adhaan": { "time": "07:10", "clock": "PM", "notification": true },
           "Iqamah": { "time": "07:40", "clock": "PM", "notification": true }
         }
-      }
+      },
+      "arabicMonth": "JUMADA - I"
     },
     "November": {
       "1": {
