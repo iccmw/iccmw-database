@@ -16043,7 +16043,29 @@
           "Iqamah": { "time": "07:40", "clock": "PM", "notification": true }
         }
       },
-      "arabicMonth": "JUMADA - I"
+      "31": {
+        "Sunrise": { "time": "07:25", "clock": "AM", "notification": true },
+        "Fajr": {
+          "Adhaan": { "time": "06:08", "clock": "AM", "notification": true },
+          "Iqamah": { "time": "06:18", "clock": "AM", "notification": true }
+        },
+        "Dhuhr": {
+          "Adhaan": { "time": "12:39", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "01:09", "clock": "PM", "notification": true }
+        },
+        "Asr": {
+          "Adhaan": { "time": "03:30", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "04:11", "clock": "PM", "notification": true }
+        },
+        "Maghrib": {
+          "Adhaan": { "time": "05:52", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "05:57", "clock": "PM", "notification": true }
+        },
+        "Isha": {
+          "Adhaan": { "time": "07:09", "clock": "PM", "notification": true },
+          "Iqamah": { "time": "07:39", "clock": "PM", "notification": true }
+        }
+      }
     },
     "November": {
       "1": {
